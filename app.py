@@ -73,7 +73,7 @@ for i in range(3):
 df = pd.DataFrame(results)
 
 # --- 5. THE VIEW ---
-st.title("🌲 Backroads Reclamation | Institutional Scenario Planner")
+st.title("Backroads Reclamation | Institutional Scenario Planner")
 st.subheader(f"Scenario: {scenario}")
 
 # KPI Ribbon
